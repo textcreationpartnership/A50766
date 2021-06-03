@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Method of saying the Rosary of our Blessed Lady as it was ordered by Pope Pius the Fifth, of the holy order of preachers, and as it is said in Her Majesties chappel at S. James.</title>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50766</idno><idno type="EEBO-CITATION">31355460</idno>
+  <idno type="VID">110478</idno>
+  <idno type="EEBO-PROQUEST">2248543599</idno>
+  
+            <idno type="STC">Wing M1946</idno>
+            <idno type="STC">ESTC R220205</idno>
+            <idno type="OCLC">31355460</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Method of saying the Rosary of our Blessed Lady as it was ordered by Pope Pius the Fifth, of the holy order of preachers, and as it is said in Her Majesties chappel at S. James.</title>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the Year, 1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary, --  Blessed Virgin, Saint --  Prayer-books and devotions.</term>
+               <term type="topical_term">Primers (Prayer-books) --  Catholic Church.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110478:1"/>
+            <p> The Method Of saying the <hi>ROSARY</hi> Of our BLESSED LADY.</p>
+            <p>
+               <hi>As it was ordered by Pope</hi> PIUS <hi>the Fifth, of the Holy Order of Preachers.</hi>
+            </p>
+            <p>And as it is said in Her <hi>Majesties</hi> Chappel at S. <hi>James.</hi>
+            </p>
+            <p>Printed in the Year, 1669.</p>
+         </div>
+         <div type="preface">
+            <pb n="2" facs="tcp:110478:2"/>
+            <head>
+               <hi>An</hi> Advertisement <hi>concerning the fol<g ref="char:EOLhyphen"/>lowing Method of saying the</hi> ROSARY.</head>
+            <p>THe Devotion of the <hi>Rosary,</hi> so called, because it is as it were a Chaplet of Spiritual Roses, that is, of most sweet and devout Prayers, was first revealed by the B. Virgin to S. <hi>Dominick,</hi> (the Father and Founder of the Holy Order of Preachers) as a devotion most efficacious for the obtaining all favours from God, and averting all evils from our selves. It consisteth of fifteen <hi>Pater noster's,</hi> and a hundred and fifty <hi>Ave Mary's,</hi> and is divided into three parts, whereof each containeth in it five <hi>De<g ref="char:EOLhyphen"/>cads,</hi> that is, five <hi>Pater Noster's</hi> and fifty <hi>Ave Ma<g ref="char:EOLhyphen"/>ry's.</hi>
+            </p>
+            <p>To each of these <hi>Decads</hi> in the following Method is assigned one of the Principal Mysteries of the life of our Saviour, or his B. Mother, as matter of me<g ref="char:EOLhyphen"/>ditation, wherein the mind is to exercise its self while
+<pb facs="tcp:110478:2"/> it prayes; and therefore is prefixed before the begin<g ref="char:EOLhyphen"/>ning of each <hi>Decad.</hi>
+            </p>
+            <p>The Mysteries also in number fifteen, are divided into three parts, answerable to the three parts of the <hi>Rosary;</hi> that is, into five <hi>Joyful</hi> Mysteries for the first part of the <hi>Rosary;</hi> five <hi>Sorrowful,</hi> for the second, and five <hi>Glorious</hi> for the third.</p>
+            <p>Now the use of the following Method or manner of saying the <hi>Rosary,</hi> consisteth in a devout applica<g ref="char:EOLhyphen"/>tion, or attention of the mind to the Mystery assigned, while the <hi>Decad</hi> is saying, and raising correspondent affections in the will, such as the Devotion, and necessity of each one shall suggest: for example, In the first Part, of Joy and Thanksgiving for the com<g ref="char:EOLhyphen"/>ing of our Redeemer, and the great work of our Re<g ref="char:EOLhyphen"/>demption. In the second, of Compassion for the sufferings of our Lord, and Contrition for our sins which were the cause of them. In the third, of Ex<g ref="char:EOLhyphen"/>altation of the Glory of our Saviour, and his B. Mo<g ref="char:EOLhyphen"/>ther; and hope through the Merits of his Passion, and her Intercession, to be made partakers of glory with them.</p>
+            <pb n="4" facs="tcp:110478:3"/>
+            <p> He that shall say the <hi>Rosary</hi> with this attention of mind, and affection of will, shall undoubtedly give much glory to God, and reap much benefit to his own soul. Which was the intention of Pope <hi>Pius</hi> the <hi>fifth</hi> (a most pious Son of S. <hi>Dominick)</hi> in ordering, and is the endeavour at present of one of the meanest among the Sons of so glorious a Father, in publish<g ref="char:EOLhyphen"/>ing the Meditations and Payers, as they are set down in the following Method.</p>
+         </div>
+      </front>
+      <body>
+         <div type="joyful_mysteries">
+            <pb n="5" facs="tcp:110478:3"/>
+            <head>The Joyful Mysteries assigned for Mundays and Thursdays through the year, and Sundays in Advent, and after Epiphany, till Lent.</head>
+            <div n="1" type="mystery">
+               <head>The first Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how the Angel <hi>Gabriel</hi> saluted our B. Lady with the Title of <hi>Full of grace,</hi> and declared unto her the Incarna<g ref="char:EOLhyphen"/>tion of our Lord and Saviour Jesus Christ.</p>
+               </div>
+               <div type="prayers">
+                  <p>Then say, <hi>Our Father,</hi> once.</p>
+                  <p>
+                     <hi>Hail Mary,</hi> ten times.</p>
+                  <pb n="6" facs="tcp:110478:4"/>
+                  <p>
+                     <hi>Semel Pater noster, &amp; decies Ave</hi> Maria.</p>
+                  <div type="Pater_Noster">
+                     <p>PAter noster, qui es in coelis; Sancti<g ref="char:EOLhyphen"/>ficetur nomen tuum; Adveniat Reg<g ref="char:EOLhyphen"/>num tuum; Fiat Voluntas tua, sicut in coelo, &amp; in terra, Panem nostrum quo<g ref="char:EOLhyphen"/>tidianum da nobis hodie; &amp; dimitte nobis debita nostra, sicut &amp; nos dimit<g ref="char:EOLhyphen"/>timus debitoribus nostris; &amp; ne nos in<g ref="char:EOLhyphen"/>ducas in tentationem sed libera nos à malo. R. <hi>Amen.</hi>
+                     </p>
+                     <pb n="7" facs="tcp:110478:4"/>
+                     <p> OƲr Father, which art Heaven, Hal<g ref="char:EOLhyphen"/>lowed be thy Name. Thy Kingdome come; thy will be done on earth, at it is in Heaven: Give us this day our daily bread: And forgive us our trespasses, as we for<g ref="char:EOLhyphen"/>give them that trespass against us. And lead us not into temptation: But deliver us from evil. <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="Ave_Maria">
+                     <head>Ave Maria.</head>
+                     <p>AVe <hi>Maria,</hi> gratiâ plena, Dominus Te<g ref="char:EOLhyphen"/>cum, benedicta tu in mulieribus, &amp; benedictus fructus Ventris tui Jesus; San<g ref="char:EOLhyphen"/>cta <hi>Maria</hi> Mater Dei ora pro nobis pec<g ref="char:EOLhyphen"/>catoribus nunc, &amp; in hora mortis nostrae, <hi>Amen.</hi>
+                     </p>
+                     <p>HAil <hi>Mary,</hi> full of Grace, our Lord is with thee. Blessed art thou a<g ref="char:EOLhyphen"/>mongst Women; and blessed is the Fruit of thy Womb Jesus. Holy <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> Mother of God, Pray for us sin<g ref="char:EOLhyphen"/>ners, now, and in the hour of our death. <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="prayer">
+                     <pb n="8" facs="tcp:110478:5"/>
+                     <head>The Prayer.</head>
+                     <p>
+                        <hi>O</hi> Holy <hi>Mary,</hi> Queen of Virgins by the most high Mystery of the Incarnation of thy beloved Son, our Lord Jesus Christ, by which our salvation was so happily be<g ref="char:EOLhyphen"/>gun, obtain for us by thy intercession, light to know this so great benefit, which he hath bestowed upon us, vouchsafing in it, to make himself our Brother, and thee his own most beloved Mother, our Mother also. <hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="mystery">
+               <head>The second Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Myste<g ref="char:EOLhyphen"/>ry, how the Blessed Virgin, <hi>Mary,</hi> understanding from the Angel, that her Cousin, S. <hi>Elizabeth</hi> had conceived, went with haste into the mountains of
+<pb n="9" facs="tcp:110478:5"/>
+                     <hi>Judea</hi> to visit her, and remained with her three moneths.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Holy Virgin, most spotless mirrour of Humility; by that exceeding Chari<g ref="char:EOLhyphen"/>ty which moved thee to visit thy holy Cou<g ref="char:EOLhyphen"/>sin, S. <hi>Elizabeth;</hi> obtain for us by thy Intercession, that our hearts may be so visi<g ref="char:EOLhyphen"/>ted by thy most Holy Son, that free from all sin, we may Praise him, and give him thanks for ever. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="mystery">
+               <head>The third Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how the B. Virgin <hi>Mary,</hi> when the time of her delivery was come, brought forth our Redeemer Christ Jesus at
+<pb n="10" facs="tcp:110478:6"/> midnight, and laid him in a Manger, because there was no room for him in the Inns in <hi>Bethlem.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Most pure Mother of God by thy Vir<g ref="char:EOLhyphen"/>ginal and most joyful delivery, by which thou gavest unto the world thy only Son, our Saviour, we beseech thee obtain for us by thy Intercession, grace to lead so pure and holy a life in this world, that we may worthily sing without ceasing, both day and night, the mercies of thy Son, and his benefits to us by thee. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="mystery">
+               <head>The fourth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us Contemplate in this Mystery, how the most B. Virgin <hi>Mary</hi> on
+<pb n="11" facs="tcp:110478:6"/> the day of her Purification presented the Child Jesus in the Temple, where Holy <hi>Simeon</hi> giving thanks to God, with great Devotion received Him in<g ref="char:EOLhyphen"/>to his arms.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Holy Virgin, most admirable Mi<g ref="char:EOLhyphen"/>striss and Pattern of Obedience, who didst present in the Temple the Lord of the Temple, obtain for us by thy beloved Son, That with Holy <hi>Simeon</hi> and devout <hi>Anna,</hi> we may praise and glorifie him for ever. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="mystery">
+               <head>The fifth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how the B. Virgin <hi>Mary,</hi> having lost without any fault of hers, her Be<g ref="char:EOLhyphen"/>loved
+<pb n="12" facs="tcp:110478:7"/> Son in <hi>Jerusalem,</hi> she sought him for the space of three days, and at length found him the third day in the Temple, in the midst of the Doctours dispuiting with them, being of the age of twelve years.</p>
+               </div>
+               <div type="prayers">
+                  <div type="prayer">
+                     <head>The Prayer.</head>
+                     <p>MOst blessed Virgin, more then Martyr in thy suffering, and yet the comfort of such as are afflicted: by that unspeak<g ref="char:EOLhyphen"/>able joy wherewith thy soul was ravished in finding thy beloved Son in the Temple, in the midst of the Doctours dispuiting with them, obtain of him for us. so to seek him, and to find him in the Holy Catholick Church, that we may never be separated from him. <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="Salve_Regina">
+                     <pb n="13" facs="tcp:110478:7"/>
+                     <head>Salve Regina.</head>
+                     <p>HAil Holy Queen, Mother of mer<g ref="char:EOLhyphen"/>cy, Our Life, our Sweetnesse, and our Hope; To thee do we cry, poor banished sons of <hi>Eve.</hi> To thee do we send up our Sighs, mourning and weep<g ref="char:EOLhyphen"/>ing in this Valley of Tears; turn then Most gracious Advocate, thy eyes of mercy towards us, and after this our Exile ended, show unto us the Blessed fruit of thy womb Jesus. O most Cle<g ref="char:EOLhyphen"/>ment, most Pious, and most sweet Vir<g ref="char:EOLhyphen"/>gin <hi>Mary.</hi>
+                     </p>
+                     <p>Vers. <hi>Pray for us holy Mother of God.</hi>
+                     </p>
+                     <p>
+                        <hi>Resp.</hi> That we may be made worthy of thy Promises of Christ.</p>
+                  </div>
+                  <div type="prayer">
+                     <pb n="14" facs="tcp:110478:8"/>
+                     <opener>Let us Pray,</opener>
+                     <p>HEar, O merciful God, the Prayer of thy servants, that we who meet toge<g ref="char:EOLhyphen"/>ther in the society of the most Holy <hi>Rosa<g ref="char:EOLhyphen"/>ry</hi> of the B. Virgin, Mother of God, by her Intercession may by thee be delivered from the dangers that continualy hang over us.<hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div type="sorrowful_mysteries">
+            <head>The dolorous, or sorrowful Mysteries for Tuesdayes and Fridayes through the year, and the Sundayes in <hi>Lent.</hi>
+            </head>
+            <div n="1" type="mystery">
+               <head>The first Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus was so afflicted for us in the Garden of <hi>Gethsemany,</hi> that his Body was bathed in a bloudy
+<pb n="15" facs="tcp:110478:8"/> sweat, which ran trickling down in great drops unto the ground.</p>
+                  <list>
+                     <item>Our Father <hi>as before.</hi>
+                     </item>
+                     <item>Hail <hi>Mary as before</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>MOst Holy Virgin more then Martyr, by that ardent Prayer, which thy be<g ref="char:EOLhyphen"/>loved Son poured forth unto his Father in the Garden, vouchsafe to intercede for us, that our passions reduced to the obedience of Reason. we way alwayes, and in all things conform and subject our selves to the Will of God. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="mystery">
+               <head>The second Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus Christ, was
+<pb facs="tcp:110478:9"/> most cruelly scourged in Pilat's house, the number of the stripes they gave him being above five thousand.</p>
+                  <p>(As was Revealed to S. <hi>Brigit.)</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Mother of God ever flowing Fountain of Patience by those stripes thy only, and most Beloved Son vouchsafed to suffer for us, obtain of him for us grace, that we may know how to mortifie our rebellious senses, and cut off all occasions of sinning with that sword of grief and compassion, which pierced thy most tender soul. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="mystery">
+               <head>The third Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how these cruel Ministers of Satan
+<pb n="17" facs="tcp:110478:9"/> platted a Crown of sharp thorns, and most cruelly platted it on the Most Sa<g ref="char:EOLhyphen"/>cred Head of our Lord Jesus Christ.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Mother of our Eternal Prince and King of Glory, by those sharp thorns, wherewith his most holy head was pierced, we beseech thee, that by thy Intercession, we may be deliver'd here from all motions of Pride, and in the day of Judgement from that confusion, which our sins deserve <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="mystery">
+               <head>The fourth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus Christ, being sentenced to die, bore with great pati<g ref="char:EOLhyphen"/>ence the Cross, which was laid upon
+<pb n="18" facs="tcp:110478:10"/> him for his greater torment and igno<g ref="char:EOLhyphen"/>miny.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Holy Virgin, example of patience, by the most painful carrying of the Cross, in which thy Son our Lord Jesus Christ bore the heavy weight of our sins, obtain for us of him by thy Intercession, courage and strength to follow his steps, and bear our Cross after him unto the end of our life. <hi>Amen:</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="mystery">
+               <head>The fifth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus Christ, being come to Mount <hi>Calvary,</hi> was stripped of his Cloathes, and his Hands and Feet most cruelly nailed to the Cross in the presence of his most afflicted Mother.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="19" facs="tcp:110478:10"/>
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Holy <hi>Mary,</hi> Mother of God, as the Body of thy beloved Son was for us ex<g ref="char:EOLhyphen"/>tended on the Cross, so may our desires be daily more and more stretched out in his Service, and our hearts wounded with compassion of his most bitter passion. And thou, O most B. Virgin, vouchsafe to nego<g ref="char:EOLhyphen"/>tiate for and with us, the work of our salva<g ref="char:EOLhyphen"/>tion by thy powerful Intercession. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>Glory be to the Father,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Hail Holy Queen, &amp;c. with the verse and Prayer as above,</hi> pag. 13.</p>
+               </div>
+            </div>
+         </div>
+         <div type="glorious_mysteries">
+            <head>THe Glorious Mysteries, for Wednes<g ref="char:EOLhyphen"/>dayes and Saturdays through the year, and Sundayes after Easter until Ad<g ref="char:EOLhyphen"/>vent.</head>
+            <div n="1" type="mystery">
+               <pb n="20" facs="tcp:110478:11"/>
+               <head>The first Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus Christ trium<g ref="char:EOLhyphen"/>phing gloriously over death, rose a<g ref="char:EOLhyphen"/>gain the third day Immortal and Im<g ref="char:EOLhyphen"/>passible.</p>
+                  <list>
+                     <item>Our Father <hi>as</hi> above.</item>
+                     <item>Hail <hi>Mary as</hi> above.</item>
+                  </list>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Glorious Virgin <hi>Mary,</hi> by that un<g ref="char:EOLhyphen"/>speakable joy thou receivd'st in the Re<g ref="char:EOLhyphen"/>surrection of thy onely Son, we beseech thee obtain of him for us, that our hearts may never soustray after the false joyes of this world, but may be ever and wholly em<g ref="char:EOLhyphen"/>ployed in the pursuit of the onely true and solid joyes of Heaven. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="mystery">
+               <pb n="21" facs="tcp:110478:11"/>
+               <head>The 2d. Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery how our Lord Jesus Christ forty dayes after his resurrection, ascended into heaven, attended by Angels, in the sight of his Most Holy Mother, his Holy Apostles and disciples, to the great admiration of them all.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Mother of God, comfort of the affli<g ref="char:EOLhyphen"/>cted; as thy beloved Son, when he ascended into Heaven, lifted up his hands, and blessed his Apostles, so vouchsafe, most Holy Mother, to lift up thy pure hands to him for us, that we may enjoy the benefit of his blessing and thine here on earth, and hereafter in Heaven. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="mystery">
+               <pb n="22" facs="tcp:110478:12"/>
+               <head>The third Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how our Lord Jesus Christ being sea<g ref="char:EOLhyphen"/>ted on the right hand of God, sent as he had promised, the Holy Ghost upon his 'Apostles, who after he was ascended, returning to <hi>Jerusalem,</hi> continued in Prayer and Supplication with the B. Virgin <hi>Mary,</hi> expecting the perform<g ref="char:EOLhyphen"/>ance of his promise.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Sacred Virgin, Tabernacle of the Holy Ghost, we beseech thee, obtain by thy Intercession, that this most sweet Comforter, whom thy beloved Son sent down upon his Apostles, filling them there<g ref="char:EOLhyphen"/>by with spiritual joy, may teach us in this
+<pb n="23" facs="tcp:110478:12"/> world the true way of salvation, and make us walk in the pathes of vertue and good works. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="mystery">
+               <head>The fourth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us Contemplate in this Mystery, how the Glorious Virgin twelve years after the resurrection of her Son, passed out of this world unto him, and was by him assumed into Heaven, ac<g ref="char:EOLhyphen"/>companied by the Holy Angels.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Most prudent Virgin, who entring the heavenly Palaces didst fill the Holy Angels with joy, and men with hope; vouchsafe to intercede for us in the hour of our death, that free from the Illusions and temptations of the Devil, we may joy<g ref="char:EOLhyphen"/>fully
+<pb n="24" facs="tcp:110478:13"/> and securely pass out of this temporal state to enjoy the happiness of Eternal life, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="mystery">
+               <head>The fifth Mystery.</head>
+               <div type="meditation">
+                  <head>The Meditation.</head>
+                  <p>LEt us contemplate in this Mystery, how the Glorious Virgin <hi>Mary,</hi> was with great Jubilee and exultation of the whole Court of Heaven, and particular glory of all the Saints, crowned by her Son with the brightest Diadem of Glory.</p>
+               </div>
+               <div type="prayer">
+                  <head>The Prayer.</head>
+                  <p>
+                     <hi>O</hi> Glorious Queen of all the Heavenly Citizens, we beseech thee accept this <hi>Rosary,</hi> which as a Crown of Roses we offer at thy feet, and grant most gracious L<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dy, that by thy Intercession our Souls
+<pb n="25" facs="tcp:110478:13"/> may be inflamed with so ardent a desire of seeing Thee so gloriously crowned, that it may never die in us, until it shall be chan<g ref="char:EOLhyphen"/>ged into the happy fruition of thy Blessed sight. <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>Hail Holy Queen,</hi> &amp;c.</p>
+                  <p>
+                     <hi>With the</hi> Verse <hi>and</hi> Prayer, <hi>as above,</hi> pag. 13.</p>
+                  <p>And Litany, of the B. Virgin, <hi>as followeth.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="litany">
+            <pb n="26" facs="tcp:110478:14"/>
+            <head>LITANIAE <hi>De B. Virgine</hi> MARIA.</head>
+            <lg>
+               <l>KYrie eleison, Christe eleison.</l>
+               <l>Kyrie eleison, Christe audinos.</l>
+               <l>Christe exaudi nos nos.</l>
+               <l>Pater de Coelis, Deus, Miserere nobis.</l>
+               <l>Fili Redemptor mundi Deus, Miserere nobis.</l>
+               <l>Spiritus sancte Deus, Miserere nobis.</l>
+               <l>Sancta Trinitas unus Deus, , miserere nobis.</l>
+               <l>Sancta Maria, Ora pro nobis.</l>
+               <pb n="27" facs="tcp:110478:14"/>
+               <l>Sacta Dei genitrix ora</l>
+               <l>Sancta Virgo Virginum ora</l>
+               <l>Mater Christi ora</l>
+               <l>Mater divinae gratiae ora</l>
+               <l>Mater purissima ora</l>
+               <l>Mater castissima ora</l>
+               <l>Mater Inviolata ora</l>
+               <l>Mater intemerata ora</l>
+               <l>Mater amabilis ora</l>
+               <l>Mater admirabilis ora</l>
+               <l>Mater Creatoris ora</l>
+               <l>Mater Salvatoris ora</l>
+               <l>Virgo prudentissima ora</l>
+               <l>Virgo veneranda ora</l>
+               <l>Virgo Praedicana ora</l>
+               <l>Virgo Potens ora</l>
+               <l>Virgo Clemens ora</l>
+               <l>Virgo fidelis ora</l>
+               <pb n="28" facs="tcp:110478:15"/>
+               <l>Speculum justitiae, ora</l>
+               <l>Sedes sapientiae, ora</l>
+               <l>Causa nostrae laetitiae, ora</l>
+               <l>Vas spirituale, ora</l>
+               <l>Vas honorabile, ora</l>
+               <l>Vas in signe devotionis ora</l>
+               <l>Rosa Mystica, ora</l>
+               <l>Turris Davidica, ora</l>
+               <l>Turris eburnea, ora</l>
+               <l>Domus aurea, ora</l>
+               <l>Faede<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is arca, ora</l>
+               <l>Janua Coeli, ora</l>
+               <l>Stella matutina, ora</l>
+               <l>Salus infirmorum, ora</l>
+               <l>Resugium peccatorum, ora</l>
+               <l>Consolatrix afflictorum, ora</l>
+               <l>Auxilium Christianorum, ora</l>
+               <l>Regina Angelorum, ora</l>
+               <pb n="29" facs="tcp:110478:15"/>
+               <l>Regina Partriarcharum, ora</l>
+               <l>Regina Prophetarum, ora</l>
+               <l>Regina Apostolorum, ora</l>
+               <l>Regina Martyrum ora</l>
+               <l>Rigina Confessorum, ora</l>
+               <l>Regina Virginum' ora</l>
+               <l>Regina Sanctorum omnium, ora</l>
+               <l>Kegina Sacratissimi Kosarii, ora</l>
+               <l>Agnus Dei, qui tollis peccata mundi, parce nobis Domine.</l>
+               <l>Agnus Dei qui tollis peccata mundi, exandi nos Domine.</l>
+               <l>Agnus Dei qui tollis peccata mundi, mi<g ref="char:EOLhyphen"/>serere nobis.</l>
+            </lg>
+            <p>Antiphona. <hi>Sub tuum praesidium confugimus, Sancta Dei genitrix: nostras deprecationes ne despicias in necessitatibus nostris: sed à periculis</hi>
+               <pb n="30" facs="tcp:110478:16"/>
+               <hi>cunctis libera nos semper Virgo gloriosa &amp; benedicta.</hi>
+            </p>
+            <p>
+               <hi>Vers.</hi> Angelus Domini annuntiavit <hi>Mariae.</hi>
+            </p>
+            <p>Rs. <hi>Quae concepit de spiritu sancto.</hi>
+            </p>
+            <p>
+               <hi>Vers.</hi> Domine exaudi orationem me<g ref="char:EOLhyphen"/>am.</p>
+            <p>Rs. <hi>Et Clamor meus ad te veniat.</hi>
+            </p>
+            <div type="closing_prayer">
+               <pb n="31" facs="tcp:110478:16"/>
+               <opener>Oremus.</opener>
+               <p>GRatiam tuam quaesumus Do<g ref="char:EOLhyphen"/>mine, mentibus nostris infun<g ref="char:EOLhyphen"/>de: Ut qui Angelo nuntiante, Chri<g ref="char:EOLhyphen"/>sti Filii tui Incarnationem cognovi<g ref="char:EOLhyphen"/>mus; per passionem ejus &amp; Crucem ad resurrectionis gloriam perduca<g ref="char:EOLhyphen"/>mur, Per eundem Christum Domi<g ref="char:EOLhyphen"/>num nostrum. <hi>Rs.</hi> Amen.</p>
+               <p>Ver. <hi>Benedicamus Domino.</hi>
+               </p>
+               <p>Rs. Deo gratias.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
